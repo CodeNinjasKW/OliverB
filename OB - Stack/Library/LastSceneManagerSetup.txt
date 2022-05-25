@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Stack Game.unity
+- path: Assets/Stacks on stacks.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

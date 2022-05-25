@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/OB - dropping bombs.unity
+- path: Assets/OB dropping bombs 3.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
